@@ -13,7 +13,7 @@ Greetings! I'm a 26-year-old researcher from Rio de Janeiro, Brazil, passionate 
 
 - Research Area: My primary focus is Operational Research, with specialized work in the simulation and forecasting of renewable energy systems. I use data-driven approaches to enhance efficiency and decision-making in sustainable energy production.
 
-## 💡 Current Projects & Contributions (Coming Soon)
+## 💡 Current Projects & Contributions 
 
 I primarily focus on academic research projects, which can be found in my pinned repositories.
 
